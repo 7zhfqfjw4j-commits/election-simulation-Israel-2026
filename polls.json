@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-23",
+ "asOf": "2026-10-24",
  "note": "בלי ערוץ 14. כחול לבן פרשה ב-19.10.2026.",
  "withdrawn": [
   "BW"
@@ -54,6 +54,28 @@
    "src": "https://www.mako.co.il/news-israel-elections/2026/Article-8ea5e45ec2961a1027.htm"
   },
   {
+   "k": "Ch13",
+   "label": "חדשות 13 · המדד",
+   "house": "HaMadad",
+   "date": "2026-10-23",
+   "d": "23.10",
+   "s": {
+    "Y": 22,
+    "L": 19,
+    "T": 14,
+    "D": 10,
+    "J": 9,
+    "YB": 8,
+    "RZ": 8,
+    "O": 8,
+    "UTJ": 8,
+    "S": 7,
+    "Ra": 7
+   },
+   "f": {},
+   "src": "https://13tv.co.il/item/news/politics/politics/survey-905415900/"
+  },
+  {
    "k": "Maariv",
    "label": "מעריב · לזר",
    "house": "Lazar",
@@ -106,30 +128,29 @@
    "src": "https://www.israelhayom.co.il/news/politics/article/21687549"
   },
   {
-   "k": "Ch13",
-   "label": "חדשות 13 · המדד",
-   "house": "HaMadad",
-   "date": "2026-10-21",
-   "d": "21.10",
-   "n": 1084,
+   "k": "ZmanIsrael",
+   "label": "זמן ישראל · טטיקה",
+   "house": "Tatika",
+   "date": "2026-10-22",
+   "d": "22.10",
    "s": {
-    "Y": 20,
-    "L": 19,
-    "T": 14,
-    "D": 10,
+    "Y": 23,
+    "L": 21,
+    "T": 11,
+    "YB": 9,
     "J": 9,
-    "RZ": 8,
+    "S": 8,
+    "D": 8,
     "UTJ": 8,
-    "YB": 8,
-    "O": 7,
-    "S": 7,
-    "Ra": 6,
+    "O": 8,
+    "RZ": 6,
+    "Ra": 5,
     "H": 4
    },
    "f": {
-    "Am": 3.2
+    "Am": 3.0
    },
-   "src": "https://13tv.co.il/item/news/politics/politics/ksgoq-905411865/"
+   "src": "https://www.zman.co.il/735649/"
   },
   {
    "k": "i24",
@@ -182,32 +203,6 @@
     "Am": 2.9
    },
    "src": "https://www.ice.co.il/research/news/article/1134422"
-  },
-  {
-   "k": "ZmanIsrael",
-   "label": "זמן ישראל · טטיקה",
-   "house": "Tatika",
-   "date": "2026-10-15",
-   "d": "14–15.10",
-   "n": 500,
-   "s": {
-    "Y": 26,
-    "L": 20,
-    "T": 11,
-    "YB": 9,
-    "J": 8,
-    "S": 8,
-    "D": 8,
-    "UTJ": 8,
-    "O": 7,
-    "RZ": 6,
-    "Ra": 5,
-    "H": 4
-   },
-   "f": {
-    "Am": 2.8
-   },
-   "src": "https://www.zman.co.il/733625/"
   }
  ],
  "history": [
@@ -404,6 +399,41 @@
     "UTJ": 7,
     "O": 7,
     "RZ": 7,
+    "Ra": 5,
+    "H": 4
+   }
+  },
+  {
+   "k": "Ch13",
+   "date": "2026-10-23",
+   "s": {
+    "Y": 22,
+    "L": 19,
+    "T": 14,
+    "D": 10,
+    "J": 9,
+    "YB": 8,
+    "RZ": 8,
+    "O": 8,
+    "UTJ": 8,
+    "S": 7,
+    "Ra": 7
+   }
+  },
+  {
+   "k": "ZmanIsrael",
+   "date": "2026-10-22",
+   "s": {
+    "Y": 23,
+    "L": 21,
+    "T": 11,
+    "YB": 9,
+    "J": 9,
+    "S": 8,
+    "D": 8,
+    "UTJ": 8,
+    "O": 8,
+    "RZ": 6,
     "Ra": 5,
     "H": 4
    }
